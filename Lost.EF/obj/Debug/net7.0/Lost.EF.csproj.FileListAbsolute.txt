@@ -1,0 +1,17 @@
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.EF.deps.json
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.EF.runtimeconfig.json
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.EF.dll
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.EF.pdb
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.Core.dll
+C:\Users\M lapan\source\repos\Lost\Lost.EF\bin\Debug\net7.0\Lost.Core.pdb
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.csproj.AssemblyReference.cache
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.AssemblyInfoInputs.cache
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.AssemblyInfo.cs
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.csproj.CoreCompileInputs.cache
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.csproj.CopyComplete
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.dll
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\refint\Lost.EF.dll
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.pdb
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\Lost.EF.genruntimeconfig.cache
+C:\Users\M lapan\source\repos\Lost\Lost.EF\obj\Debug\net7.0\ref\Lost.EF.dll

@@ -1,0 +1,14 @@
+C:\Users\M lapan\source\repos\Lost\Lost.Core\bin\Debug\net7.0\Lost.Core.deps.json
+C:\Users\M lapan\source\repos\Lost\Lost.Core\bin\Debug\net7.0\Lost.Core.runtimeconfig.json
+C:\Users\M lapan\source\repos\Lost\Lost.Core\bin\Debug\net7.0\Lost.Core.dll
+C:\Users\M lapan\source\repos\Lost\Lost.Core\bin\Debug\net7.0\Lost.Core.pdb
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.csproj.AssemblyReference.cache
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.AssemblyInfoInputs.cache
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.AssemblyInfo.cs
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.csproj.CoreCompileInputs.cache
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.dll
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\refint\Lost.Core.dll
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.pdb
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\Lost.Core.genruntimeconfig.cache
+C:\Users\M lapan\source\repos\Lost\Lost.Core\obj\Debug\net7.0\ref\Lost.Core.dll
